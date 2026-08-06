@@ -1,0 +1,14 @@
+tests/e2e/pull_request/one_card/rlhf/state_transitions/test_sleep_wake.py
+  h_db090f75962742 173-174,183
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.2",
+  "base_commit_sha": "30963b9733c4569ec7de5341207d1ac2d1e8b3cf",
+  "prompts": {},
+  "humans": {
+    "h_db090f75962742": {
+      "author": "Ronald1995 <ronaldautomobile@163.com>"
+    }
+  }
+}
