@@ -1,0 +1,14 @@
+mkdocs.yml
+  h_db090f75962742 274
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.2",
+  "base_commit_sha": "aedc4c7eedab6e25c2fd06291fd4e96ea8a38a6a",
+  "prompts": {},
+  "humans": {
+    "h_db090f75962742": {
+      "author": "Ronald1995 <ronaldautomobile@163.com>"
+    }
+  }
+}
