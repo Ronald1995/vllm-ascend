@@ -1,0 +1,11 @@
+[[skills.config]]
+path = "../.agents/skills/vllm-ascend-model-adapter/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "../.agents/skills/vllm-ascend-release/SKILL.md"
+enabled = false
+
+[[skills.config]]
+path = "../.agents/skills/npu-test-runner/SKILL.md"
+enabled = false
